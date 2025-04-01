@@ -1,0 +1,9 @@
+# Ignore data, env, and cache
+data/
+healthcare-env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pkl
+.env
+
